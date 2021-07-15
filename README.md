@@ -2,8 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/41102775/61476404-9d4b4100-a9aa-11e9-81f4-77308961949a.png)
 
-**Emojis** are the incredible way of expressing yourself.Therefore, our machines should also be aware of the appropriate emoji to be used at the right time. Thus, this project does the same.  
-In this project, the model is predicting emoji's according to a given sentence using Deep Learning Models.
+**Emojis** are small low resolution images used to express yourself better while writing a text.This project frees us from the cumbersome task of choosing the right emoji. In this project, the model predicts emojis according to a given sentence using Deep Learning Models.
 
 # Input
 Text data consiting of different sentences along with the labels. Labels represent a particular emoji representing the sentence. 
